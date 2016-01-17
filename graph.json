@@ -38,6 +38,13 @@
 {"source":1,"target":23,"value":18},
 {"source":1,"target":23,"value":18},
 
+{"source":2,"target":18,"value":18},
+{"source":2,"target":20,"value":18},
+
+{"source":3,"target":23,"value":18},
+
+{"source":4,"target":23,"value":18},
+
 {"source":17,"target":27,"value":18}
 ]}
 
