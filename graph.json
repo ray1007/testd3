@@ -5,7 +5,6 @@
 {"name":"戲曲後花園","group":1},
 {"name":"國家與社會發展","group":1},
 {"name":"鋼琴作品賞析","group":1},
-{"name":"工作休閒之理論與實踐","group":1},
 {"name":"台灣現代詩","group":1},
 {"name":"現代主義小說","group":1},
 {"name":"職場倫理與職場精神","group":1},
@@ -17,6 +16,7 @@
 {"name":"日本近代歷史與人物","group":1},
 {"name":"台灣歷史與人物","group":1},
 {"name":"從電影藝術看生死倫理","group":1},
+{"name":"工作休閒之理論與實踐","group":1},
 {"name":"甜涼","group":1},
 {"name":"有意義","group":1},
 {"name":"要點名","group":1},
@@ -29,7 +29,17 @@
 {"name":"未開課","group":1}]
 
 ,"links":[
-{"source":1,"target":0,"value":18}]}
+{"source":0,"target":18,"value":18},
+{"source":0,"target":20,"value":18},
+{"source":0,"target":23,"value":18},
+
+{"source":1,"target":19,"value":18},
+{"source":1,"target":21,"value":18},
+{"source":1,"target":23,"value":18},
+{"source":1,"target":23,"value":18},
+
+{"source":17,"target":27,"value":18}
+]}
 
 
 
